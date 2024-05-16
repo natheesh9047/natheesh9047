@@ -13,14 +13,14 @@ B.Tech IT Student @ Coimbatore Institute Of Technology
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> <img width="50" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natheesh9047&bg_color=0d0d0d&color=f5f0f4&line=4af547&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Natheesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=natheesh9047&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/natheesh8098?theme=dark&font=Libre%20Caslon%20Text)
 
-[![Natheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Natheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natheesh9047&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
