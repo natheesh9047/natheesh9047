@@ -3,7 +3,7 @@
 B.Tech IT Student @ Coimbatore Institute Of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's I am Natheesh                                               
-- 🌱 I’m currently pursing 2nd Year B.Tech(IT)
+- 🌱 I’m currently pursing 3rd Year B.Tech(IT)
 - 👯 I’m looking to collaborate on Mobile App Development
 - 💬 Ask me about Tech
 - 📫 How to reach me :
